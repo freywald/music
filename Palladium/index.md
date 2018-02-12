@@ -1,3 +1,2 @@
 # Palladium (2003 - )
-
-10 kleine Stücke.
+10 kleine Stücke 'Deka'.
