@@ -32,4 +32,3 @@ This index comprises all released music so far.
 ### Collections
 * 2001 to date [Diverse Stücke](https://blokk.one/article/category/music/alias/diverse-stücke#blog)
 * 2009 to date [Diverse Cover](https://blokk.one/article/category/music/alias/diverse-cover#blog)
-

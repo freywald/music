@@ -1,0 +1,1 @@
+The composers are Guy Whitmore, Daniel Bernstein and Mike Cody. The owner of rights is probably Monolith/GT-Interactive/Atari and whatever follows. This is a cover, the original rights are retained. I abstain from all my rights as deemed necessary.
