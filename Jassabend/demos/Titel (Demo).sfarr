@@ -37,7 +37,7 @@ Tuning scale=Equal Temperament
 Tuning root key=0
 BMP factor=1065353216
 Final decay time=2
-Selected track=2
+Selected track=1
 Track 6 LockPresetLive=0
 Track 6 Sf2 Prog=W:\Audio.Soundfonts\Collections\FluidR3 GM.SF2>0:114
 Track 6 extras=79,0,0,0,0,1,-1,255,0,
@@ -122,8 +122,8 @@ Key signature=0
 
 [Play region]
 Use markers=1
-Start at=118,3
-Stop at=125,2
+Start at=121,1
+Stop at=125,3
 Loop=0
 Loop count=0
 Loop continue=1
